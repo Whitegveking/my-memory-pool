@@ -1,6 +1,7 @@
 # My Memory Pool
 
 一个高性能的C++内存池实现，采用多级缓存设计，可显著提升内存密集型应用的性能。
+项目原地址：https://github.com/youngyangyang04/memory-pool
 
 ## 项目概述
 
